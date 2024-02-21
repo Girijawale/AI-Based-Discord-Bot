@@ -1,5 +1,5 @@
 # AI Based Discord Bot
-## Description
+
 
 Welcome to the AI Discord Bot project! This Python-based Discord bot leverages artificial intelligence to enhance your Discord server experience. Whether it's providing information, answering queries, or adding some fun elements, this bot is designed to be versatile and user-friendly.
 
